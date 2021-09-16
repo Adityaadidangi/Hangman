@@ -1,2 +1,2 @@
 # Hangman
-Game
+[Play](https://git.io/Juja2)
